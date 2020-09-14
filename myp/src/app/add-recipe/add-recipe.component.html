@@ -1,0 +1,58 @@
+<body class="add">
+
+        <header *ngIf=!flag></header>
+        <div *ngIf=!flag>
+                <p>😔 אופס אינך מחובר
+                        <br>
+                        <br> .נראה שלא התחברת לאתר זה
+                        <br>
+                        <br> עליך
+                        <a routerLink="/login" href="#">להתחבר</a> /
+                        <a routerLink="/register" href="#">להירשם</a>
+                        <br> </p>
+                        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+        
+        <header *ngIf=flag>
+
+                <h1 style="font-size:30px; color:black; text-align:right; font-size:15px; ">
+                        משתמש נוכחי: {{us}} </h1>
+                        
+                <form [formGroup]="add" >
+                        <h3>הוספת מתכון</h3>
+                        <br><br><br>
+                        <input type="text" formControlName="NameR" [(ngModel)]="r.NameRecipe">: שם מתכון
+                        <br><br>
+                        <input type="number" formControlName="TimeR" [(ngModel)]="r.Time" >: זמן הכנה
+                        <br><br>
+                        <input type="number" formControlName="DifficultyR" [(ngModel)]="r.Difficulty">: רמת קושי
+                        <br><br>
+                </form>
+
+
+                <select [(ngModel)]="r.CategoryRecipe.CategoryName" (ngModelChange)="findcategory()">
+                        <option *ngFor="let item of arrCategory">{{item.CategoryName}}</option>
+                </select>: קטגוריה
+                <br><br>
+                <div id="product">
+                        : מצרכים☕ <div *ngFor="let x of r.Ingredients;let n=index;trackBy:trackByFn">
+                                <input type="text" size="50px" type="checkbox‏" (input)="addRowIngridience(n)"
+                                        [(ngModel)]="r.Ingredients[n]">
+                        </div>
+                </div>
+                <br><br>
+                <div id="tomake">
+                        :הוראות הכנה👩‍🍳<div *ngFor="let x of r.Preparation;let i=index;trackBy:trackByFn">
+                                <input type="text" (input)="addsomthing(i)" size="50px" [(ngModel)]="r.Preparation[i]">
+                        </div>
+                </div>
+                <br><br>
+                <input type="file" [(ngModel)]="r.Image"> :תמונה
+                <br><br>
+                <input type="button" value="save" class="save" [disabled]="!add.valid" (click)="addmyRecipe()">
+        
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </header>
+
+</body>

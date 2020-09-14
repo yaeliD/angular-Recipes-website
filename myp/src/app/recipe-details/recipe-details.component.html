@@ -1,0 +1,17 @@
+<body>
+    <div class="di">
+        <h1>{{myRecipe?.NameRecipe}}</h1>
+        <h1>{{myRecipe?.CategoryRecipe.CategoryName}}<img src="../../assets/{{myRecipe?.CategoryRecipe.CategoryIcon}}"
+                height="40" width="40" /></h1>
+        <h1>{{myRecipe?.Time|Minit}}</h1>
+        <h1>{{myRecipe?.Difficulty|DifficultyPipe}}</h1>
+        <h1>{{myRecipe?.DateAdd| date: 'dd/MM/yyyy'}}</h1>
+        <h1>☕<p *ngFor="let x of myRecipe?.Ingredients">{{x}}</p>
+        </h1>
+        <h1>👩‍🍳<p *ngFor="let x of myRecipe?.Preparation">{{x}}</p>
+        </h1>
+        <h1>{{myRecipe?.UserName}}</h1>
+        <img src="../../assets/{{myRecipe?.Image}}" height="400" width="400" />
+        <input *ngIf=!flag type="button"  class="save" value="עריכת המתכון" (click)="mydelails()">
+    </div>
+</body>

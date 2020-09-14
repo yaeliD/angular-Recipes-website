@@ -1,0 +1,38 @@
+
+<body>
+  <div class="navbar">
+    <ul class="nav navbar-nav">
+
+      <li>
+        <a class="allC" routerLink="register" href="#" routerLinkActive="mycls">הרשמה
+          <img height="25" width="25" src="../../assets/הרשמה.jpg" />
+        </a>
+      </li>
+      <li>
+        <a class="allC" routerLink="login" href="#" routerLinkActive="mycls">התחברות
+          <img height="25" width="25" src="../../assets/התחברות.png" />
+        </a>
+      </li>
+      <li>
+        <a class="allC" routerLink="AddRecipe" href="#" routerLinkActive="mycls">הוספת מתכון
+          <img height="25" width="25" src="../../assets/הוספת מתכון.jpg" /> </a>
+      </li>
+      <li>
+        <a class="allC" routerLink="All-Recipos" href="#" routerLinkActive="mycls">לכל המתכונים
+          <img height="25" width="25" src="../../assets/all.png" />
+        </a>
+      </li>
+      <li>
+        <a class="allC" routerLink="logout"  href="#" routerLinkActive="mycls">יציאה
+          <img height="25" width="25" src="../../assets/יציאה.jpg" />
+        </a>
+      </li>
+      <li>
+      <img class="exe" src="../../assets/רגע מתוק.png">
+      </li>
+    </ul>
+  </div>
+
+  <label [(ngModel)]="UserName">{{UserName}}</label>
+  <router-outlet></router-outlet>
+</body>

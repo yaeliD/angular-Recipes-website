@@ -1,0 +1,40 @@
+<body>
+    <div class="edit">
+        <h3>עריכת מתכון</h3>
+        <br><br>
+        <h1>{{r.NameRecipe}}</h1>:שם מתכון
+        <br><br>
+        <select [(ngModel)]="r.CategoryRecipe" >
+            <option *ngFor="let item of arrCategory">{{item.CategoryName}}</option>
+        </select>: קטגוריה
+        <br><br>
+        <form [formGroup]="add" >
+            <input type="number"  formControlName="TimeR" [(ngModel)]="r.Time">:זמן הכנה
+            <br><br>
+            <input type="number"  formControlName="DifficultyR" [(ngModel)]="r.Difficulty"> :רמת קושי
+            <br><br>
+        </form>
+        <br><br>
+        <div id="product">
+            <div *ngFor="let x of r.Ingredients ;let n=index;trackBy:trackByFn">
+                <input type="text" size="50px" (input)="addRowIngridience(n)" [(ngModel)]="r.Ingredients[n]">
+            </div>
+        </div> :מצרכים☕
+        <br><br>
+        <div id="tomake">
+            <div *ngFor="let x of r.Preparation;let i=index;trackBy:trackByFn">
+                <input type="text" size="50px" (input)="addsomthing(i)" [(ngModel)]="r.Preparation[i]">
+            </div>
+        </div>:הוראות הכנה👩‍🍳
+        <br><br>
+        <h1>{{r.UserName}}</h1>:שם המשתמש
+        <br><br>
+        <input type="file" [(ngModel)]="r.Image">:תמונה
+        <br><br>
+        <input type="button" value="save" class="save" [disabled]="!add.valid" (click)="saveChanges()">
+        <br><br>
+        <input type="button" value="dontsave" class="save" (click)="dontsaveChanges()">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    </div>
+</body>

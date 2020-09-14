@@ -1,0 +1,16 @@
+app-short-recipe.a {
+    text-align: center;
+    width: 18%;
+    float: left;
+    height: 518px;
+  }
+
+div.all{
+      text-align: center;
+}
+
+.save{
+  background-color:rgb(207, 173, 121);
+  width:100px;
+ height:30px ;
+}

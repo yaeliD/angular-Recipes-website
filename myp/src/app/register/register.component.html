@@ -1,0 +1,17 @@
+<body>
+    <div class="re">
+        <h1>הרשמה</h1>
+
+       <input type="text" [(ngModel)]="u.UserName">: שם משתמש
+        <br><br>
+       <input type="password" [(ngModel)]="u.Password"> :סיסמה
+        <br><br>
+       <input type="text" [(ngModel)]="u.Adress"> :כתובת
+        <br><br>
+       <input type="email" [(ngModel)]="u.Email"> :מייל
+        <br><br>
+       <input type="tel" [(ngModel)]="u.Phone">: פלאפון
+        <br><br>
+        <input type="button" value="save"  class="save"(click)="addUser()">
+    </div>
+</body>

@@ -1,0 +1,138 @@
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\obj\Debug\new.csprojAssemblyReference.cache
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\@new.dll.config
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\@new.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\@new.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\csc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\csc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\csc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\csi.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\csi.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\csi.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.AppContext.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Collections.Immutable.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Console.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.IO.Compression.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.IO.FileSystem.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.IO.Pipes.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Reflection.Metadata.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Security.AccessControl.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Security.Claims.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.ValueTuple.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Xml.XPath.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\vbc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\vbc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\vbc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\VBCSCompiler.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\roslyn\VBCSCompiler.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\Newtonsoft.Json.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Net.Http.Formatting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Web.Http.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Web.Http.WebHost.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\Newtonsoft.Json.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Net.Http.Formatting.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Web.Http.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Web.Http.WebHost.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\obj\Debug\new.csproj.CopyComplete
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\obj\Debug\@new.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\obj\Debug\@new.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Web.Cors.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Web.Http.Cors.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\דיין יעל\angular\angular\new\new\bin\System.Web.Http.Cors.xml
+F:\new\new\obj\Debug\new.csprojAssemblyReference.cache
+F:\new\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+F:\new\new\obj\Debug\@new.dll
+F:\new\new\obj\Debug\@new.pdb
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\@new.dll.config
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\@new.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\@new.pdb
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\csc.exe
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\csi.exe
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Web.Http.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Web.Http.xml
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\obj\Debug\@new.dll
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\obj\Debug\@new.pdb
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\obj\Debug\new.csprojAssemblyReference.cache
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים תכנות\פרויקט אנגולר\new\new\obj\Debug\new.csproj.CopyComplete

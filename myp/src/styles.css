@@ -1,0 +1,15 @@
+@font-face {
+  font-family: myFont;
+  src: url(fonts/gan/ganclm_bold-webfont.ttf);
+}
+input{
+    font-family: myFont;
+    direction:rtl;
+}
+body {
+  background-image:url('/assets/קפה-לבן-רגע-כף-רקע-תמונות-סטוק_csp50969957.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size: cover;
+  }
+  

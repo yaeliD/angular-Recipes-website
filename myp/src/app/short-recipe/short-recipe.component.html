@@ -1,0 +1,41 @@
+<body>
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 3px solid #ccc;
+  float: left;
+  width: 250px;
+  height: auto;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height:50px;
+  height: auto;
+}
+
+div.desc {
+  text-align: center;
+}
+</style>
+</head>
+
+
+<div class="gallery">
+  <a target="_blank" href="../../assets/{{myRecipeNow.Image}}">
+    <img src="../../assets/{{myRecipeNow.Image}}" alt="Cinque Terre"/>
+  </a>
+  <div class="desc">
+    <h1>{{myRecipeNow.NameRecipe}}</h1>
+    <h1>{{myRecipeNow.Time|Minit}}</h1>
+    <h1>{{myRecipeNow?.Difficulty|DifficultyPipe}}</h1>
+    <input type="button" value="{{myRecipeNow.NameRecipe}}" (click)="showRecipe()" routerLink={{link}}></div>
+</div>
+</html>
+</body>
